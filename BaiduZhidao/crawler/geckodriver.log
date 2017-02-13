@@ -1,0 +1,17 @@
+1481613430378	geckodriver	INFO	Listening on 127.0.0.1:39829
+1481613432399	mozprofile::profile	INFO	Using profile path C:\Users\XUWENK~1\AppData\Local\Temp\rust_mozprofile.27bpwBpGJe6y
+1481613432401	geckodriver::marionette	INFO	Starting browser G:\Sofware\Mozilla\firefox.exe
+1481613432455	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39835
+1481613433165	Marionette	INFO	Listening on port 39835
+[Child 16952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17368] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+1481612846639	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15528] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+er.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+
+er.jsm:2811:15
+
